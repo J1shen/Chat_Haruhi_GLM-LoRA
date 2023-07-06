@@ -7,3 +7,5 @@ Main Project:  <a href="https://github.com/LC1332/Chat-Haruhi-Suzumiya">LC1332/C
 ## Training Log
 5 July,2023:GLM2 + 3 dataset.  
 <img src='./Logs/Screenshot 2023-07-05 at 10.48.18.png'></img>
+5 July,2023:GLM2 + 3 dataset plus.  
+<img src='./Logs/Screenshot 2023-07-06 at 10.04.52,png'></img>
